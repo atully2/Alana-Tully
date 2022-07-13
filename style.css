@@ -1,0 +1,44 @@
+/*stylesheet*/
+
+body {
+	background-color: #e6e6e6;
+	color: #333333;
+}
+
+h1#main-headline {
+   font-size: 48px;
+   color: paleturquoise;
+   font-weight: 800;
+}
+
+h1 main-headline {
+   font-size: 48px;
+    color: red;
+    font-weight: 800;
+ }
+
+ h1, h2, h3, h4 {
+   margin: 0;
+}
+
+p:last-child{
+   color: blue;
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                         
